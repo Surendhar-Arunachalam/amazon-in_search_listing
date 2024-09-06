@@ -1,4 +1,4 @@
-# Amazon.in Keyword Search Listing with Brand filter option
+# Amazon.in Keyword Search Listing with a Brand filter selection by user
 
 ## Prerequisites
 
